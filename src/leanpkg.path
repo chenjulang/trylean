@@ -1,0 +1,6 @@
+builtin_path
+path ../mathlib/src/
+path solutions
+path rubiks-cube-group-master/src
+path eudoxus-master/src
+
