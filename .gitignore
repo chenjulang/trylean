@@ -1,5 +1,6 @@
 /lean
 /mathlib
+/vscodium
 
 # Prerequisites
 *.d
